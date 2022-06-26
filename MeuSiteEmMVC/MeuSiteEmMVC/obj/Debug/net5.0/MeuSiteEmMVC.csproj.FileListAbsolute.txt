@@ -338,7 +338,6 @@ F:\Tito\MVC\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net5.0\MeuSiteEmMVC.TagHelpers.i
 F:\Tito\MVC\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net5.0\MeuSiteEmMVC.TagHelpers.output.cache
 F:\Tito\MVC\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net5.0\MeuSiteEmMVC.RazorCoreGenerate.cache
 F:\Tito\MVC\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-F:\Tito\MVC\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 F:\Tito\MVC\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 F:\Tito\MVC\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 F:\Tito\MVC\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs

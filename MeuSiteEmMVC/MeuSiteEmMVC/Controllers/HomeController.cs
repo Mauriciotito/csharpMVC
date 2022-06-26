@@ -16,7 +16,7 @@ namespace MeuSiteEmMVC.Controllers
         {
             HomeModel home = new HomeModel();
 
-            home.Nome = "Todemal";
+            home.Nome = "Mauricio";
             home.Email = "mauricio@todemal.com";
 
             return View(home);
